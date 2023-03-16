@@ -23,11 +23,11 @@ class Login extends Component {
 					<input
 						type='submit'
 						value='login'
-						class='btn'
+						class='login-btn'
 					/>
-					<label>or</label>
+					<p class='center'>or</p>
 					<a>
-						<button class='btn'>create a new account</button>
+						<button class='login-btn'>create a new account</button>
 					</a>
 				</form>
 			</div>

@@ -1,4 +1,12 @@
+.title{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(auto,400px));
+    justify-content: center;
+}
 img {
-	height: 10rem;
-	margin: 2rem;
+	margin: 0 auto;
+    width:100%;
+}
+.image{
+    padding: 1px;
 }

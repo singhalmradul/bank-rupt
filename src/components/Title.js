@@ -5,9 +5,13 @@ import Bankrupt from '../img/bank-rupt.png';
 class Title extends Component {
 	render() {
 		return (
-			<div>
-                <img src={Logo} />
-                <img src={Bankrupt} />
+			<div className='title'>
+				<div className='image'>
+					<img src={Logo} />
+				</div>
+				<div className='image'>
+					<img src={Bankrupt} />
+				</div>
 			</div>
 		);
 	}

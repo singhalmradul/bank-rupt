@@ -4,7 +4,7 @@ import Title from './components/Title';
 
 function App() {
 	return (
-		<div className='App'>
+		<div className='app'>
 			<Title />
 			<Login />
 		</div>
