@@ -16,19 +16,19 @@
 }
 
 .login>form {
-	margin: 0 auto;
+	margin: 20px;
 	font-size: 18px;
 	border: 2px solid#a121f0b8;
-	padding: 50px;
+	padding: 10px 50px;
 }
 
-.login>form>label {
+.label {
 	display: block;
 	padding: 10px;
 	font-size: 14px;
 }
 
-.login>form>input {
+.field {
 	display: block;
 	width: 100%;
 	border: 2px solid#298089;
@@ -38,6 +38,7 @@
 }
  .center{
 	text-align: center;
+
 }
 
 .login-btn {
@@ -45,7 +46,6 @@
 	background-color: #f31e1e;
 	color: #ffffff;
 	padding: 7px 10px;
-	margin: 25px 0;
 	border-radius: 4px;
 	width: 100%;
 	cursor: pointer;

@@ -1,12 +1,9 @@
-.title{
-    display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(auto,400px));
-    justify-content: center;
+.title {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(auto, 400px));
+	margin: 50px;
 }
 img {
 	margin: 0 auto;
-    width:100%;
-}
-.image{
-    padding: 1px;
+	width: 100%;
 }
